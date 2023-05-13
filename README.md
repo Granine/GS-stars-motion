@@ -1,46 +1,50 @@
-
+"In millenniums hence, when wanderers stroll amidst the stars, unto her be all glory, honour and praise." 
+— Kristen Wright (Lone Trail)
 # GS-stars-motion
-A Good and Simple stars and celestial body visual presentation simulation system.
-# WIP
-# Application
-- Simulation of stars in night sky in games
-- Simulate space in webpages
-- Generate live background for wallpaper, art or videos
-- Not for scientific or astomical applications
-# Features
+A Good and Simple stars and celestial body visual presentation simulation system. The system simulates the size, colour, motion and location of the stars over time with great efficiency.**Please note: this system is not intended for scientific or astronomical purposes.**
+
+## Work in Progress
+
+## Applications
+- Star simulation in night sky for games
+- Space simulation for webpages
+- Dynamic background generation for wallpapers, art, or videos
+
+## Features
 - High performance
-  - Cache utilization
-  - Register focused design
-  - Parallel processing for mass quality simulations
-  - Custom or auto hardware scan for above information
+  - Efficient cache utilization
+  - Register-focused design
+  - Parallel processing for large-scale simulations
+  - Custom or automatic hardware scan for optimal performance
 - 2D or 3D simulation
-  - 2D: view stars motion on 2D plane, can custom distance to screen
-  - 3D: view stars motion as part of a 3D system 
-- Custom stars
+  - 2D: View star motion on a 2D plane with customizable distance to screen
+  - 3D: Integrate star motion into a 3D system
+- Customizable stars
   - Number
   - Location
   - Size
-  - Radiation wavelength (Calculate colour)
+  - Radiation wavelength (determines colour)
   - Speed
-  - Random support for all aboves number for all above values with chance based on actual star systems
-- Custom viewpoint
+  - Randomization support for all above parameters, with probabilities based on real star systems
+- Customizable viewpoint
   - Location (3D)
-  - (3D) Facing
-  - (3D) Facing rotation angle and speed (simulate viewpoint star rotation)
-  - Visible stars angle (calculate stats in view angle)
-  - Random support
+  - Facing direction (3D)
+  - Facing rotation angle and speed (simulate star rotation from viewpoint)
+  - Visible stars angle (calculate stats within view angle)
+  - Randomization support
 - Demo
-  - Render visual effect into basic image
-  - Render visual effect into basic video
-# Version
-- Krysten: Class setup and design
-  - Stars: number, location, size, raidation, speed
-  - Viewpoint: Locarion
+  - Render visual effects as static images
+  - Render visual effects as video
+
+## Version History
+- Kristen: Initial class setup and design
+  - Stars: number, location, size, radiation, speed
+  - Viewpoint: location
 - Saria: Full 2D motion support
-- Muelsyse: 2D Imaging support
+- Muelsyse: 2D imaging support
 - Ferdinand: Full 3D motion support
-- Ahrens: 3D Imaging support
-- Nasti: Parallel calculation and performance
-- Justin: Improved randomization support based on actual star systems
+- Ahrens: 3D imaging support
+- Nasti: Parallel calculation and performance optimization
+- Justin: Improved randomization support based on real star systems
 - Jara: Video support
-- Dorothy: Demo project (TBD)
+- Dorothy: Demo project (to be determined)
