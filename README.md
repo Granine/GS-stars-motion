@@ -1,5 +1,5 @@
-"In millenniums hence, when wanderers stroll amidst the stars, unto her be all glory, honour and praise." 
-— Kristen Wright (Lone Trail)
+"In millenniums hence, when wanderers stroll amidst the stars, unto her be all praise." 
+— Lone Trail)
 # GS-stars-motion
 A Good and Simple stars and celestial body visual presentation simulation system. The system simulates the size, colour, motion and location of the stars over time with great efficiency.**Please note: this system is not intended for scientific or astronomical purposes.**
 
