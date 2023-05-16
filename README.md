@@ -5,6 +5,11 @@ A Good and Simple stars and celestial body visual presentation simulation system
 
 ## Work in Progress
 
+## Demo Direction
+1. Ensure cmake is installed
+2. Run cmake
+3. Execute the executable star_simulation_system.exe
+
 ## Applications
 - Star simulation in night sky for games
 - Space simulation for webpages
